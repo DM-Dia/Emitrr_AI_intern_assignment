@@ -1,0 +1,144 @@
+[
+  {
+    "conversation_id": "case_001_short",
+    "patient_name": "Janet Jones",
+    "transcript": [
+      {
+        "speaker": "Physician",
+        "text": "Good morning, how are you feeling today?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I'm doing better, but I still have some neck and back pain after my car accident."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Did you receive any treatment?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes, I had ten physiotherapy sessions and took painkillers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "case_002_sentiment_focus",
+    "patient_name": "Robert Smith",
+    "transcript": [
+      {
+        "speaker": "Physician",
+        "text": "What brings you in today?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I still feel anxious while driving after my accident, even though the pain has reduced."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Have you noticed any physical symptoms?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "No major pain, but the anxiety worries me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "case_003_full_conversation",
+    "patient_name": "Janet Jones",
+    "transcript": [
+      {
+        "speaker": "Physician",
+        "text": "Good morning, Ms. Jones. How are you feeling today?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Good morning, doctor. I'm doing better, but I still have some discomfort now and then."
+      },
+      {
+        "speaker": "Physician",
+        "text": "I understand you were in a car accident last September. Can you walk me through what happened?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Another car hit me from behind and pushed my car into the one in front."
+      },
+      {
+        "speaker": "Physician",
+        "text": "That sounds like a strong impact. Were you wearing your seatbelt?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes, I always wear my seatbelt."
+      },
+      {
+        "speaker": "Physician",
+        "text": "What did you feel immediately after the accident?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "At first I was shocked, but then I realized I had hit my head on the steering wheel and felt pain in my neck and back."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Did you seek medical attention at that time?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes, I went to Moss Bank Accident and Emergency. They told me it was a whiplash injury and sent me home with advice."
+      },
+      {
+        "speaker": "Physician",
+        "text": "How did things progress after that?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "The first four weeks were very painful. I had trouble sleeping and needed painkillers. Later, I went through ten physiotherapy sessions, which helped."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Are you still experiencing pain now?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "It's not constant. I get occasional backaches, but it's much better than before."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Have you noticed any anxiety while driving or difficulty concentrating?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "No, I don't feel anxious while driving and haven't noticed emotional issues."
+      },
+      {
+        "speaker": "Physician",
+        "text": "How has this affected your daily life and work?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I took a week off work but returned to my usual routine afterward."
+      },
+      {
+        "speaker": "Physician",
+        "text": "I'll do a quick physical examination now."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Your neck and back show a full range of movement with no tenderness. Everything looks good."
+      },
+      {
+        "speaker": "Patient",
+        "text": "That's a relief."
+      },
+      {
+        "speaker": "Physician",
+        "text": "Based on your recovery, I expect a full recovery within six months."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Thank you, doctor. I appreciate it."
+      }
+    ]
+  }
+]
