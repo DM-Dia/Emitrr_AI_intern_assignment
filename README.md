@@ -198,7 +198,7 @@ The script:
 
 ---
 
-## Author
+## Prepared by
 
 **Devansi Mahatar**
 Computer Science & Engineering
