@@ -124,7 +124,7 @@ The `outputs/` directory contains **representative sample outputs** for one conv
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DM-Dia/Emitrr_AI_intern_assignment.git
 cd physician-notetaker
 ```
 
